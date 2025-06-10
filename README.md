@@ -1,4 +1,4 @@
-# langchain-1-jt
+# lngchn-writr
 
 [![License](https://img.shields.io/github/license/JayeshTiwari03/langchain-1-jt)](./LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/JayeshTiwari03/langchain-1-jt)](https://github.com/JayeshTiwari03/langchain-1-jt/issues)
