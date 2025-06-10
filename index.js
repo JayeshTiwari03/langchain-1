@@ -2,7 +2,6 @@ import "dotenv/config";
 import { ChatOpenAI } from "@langchain/openai";
 import chatPrompt from "./promptTemplate.js";
 
-
 async function runLLM() {
   const model = new ChatOpenAI({
     openAIApiKey: process.env.OPENAI_API_KEY,
