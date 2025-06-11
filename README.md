@@ -6,7 +6,7 @@
 
 ## Overview
 
-**langchain-1-jt** is a LangChain-based Text Information Writer implemented in JavaScript. The project leverages the power of the [LangChain](https://js.langchain.com/) library to facilitate advanced language model interactions in JavaScript environments.
+**langchain-1** is a LangChain-based Text Information Writer implemented in JavaScript. The project leverages the power of the [LangChain](https://js.langchain.com/) library to facilitate advanced language model interactions in JavaScript environments.
 
 - **Repository:** [JayeshTiwari03/langchain-1-jt](https://github.com/JayeshTiwari03/langchain-1-jt)
 - **Language:** JavaScript
